@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\services\\meetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:services\\meetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\services\\imeetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:services\\imeetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\meetingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:meetingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|d:\\projects\\dotnetcore\\test_dotnet_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E371908-95A2-498A-95BB-7C2334FB8180}|Test_dotnet_task.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeetingService.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\MeetingService.cs",
+              "RelativeDocumentMoniker": "Services\\MeetingService.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\MeetingService.cs",
+              "RelativeToolTip": "Services\\MeetingService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:55:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMeetingService.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\IMeetingService.cs",
+              "RelativeDocumentMoniker": "Services\\IMeetingService.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\IMeetingService.cs",
+              "RelativeToolTip": "Services\\IMeetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:53:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:39:53.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:23:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:17:33.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Meeting.cs",
+              "RelativeDocumentMoniker": "Meeting.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Meeting.cs",
+              "RelativeToolTip": "Meeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:36:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:20:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T14:14:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T14:14:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:11:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:17:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeetingRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\MeetingRequest.cs",
+              "RelativeDocumentMoniker": "MeetingRequest.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\MeetingRequest.cs",
+              "RelativeToolTip": "MeetingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:22:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\UserRequest.cs",
+              "RelativeDocumentMoniker": "UserRequest.cs",
+              "ToolTip": "D:\\Projects\\dotnetcore\\Test_dotnet_task\\UserRequest.cs",
+              "RelativeToolTip": "UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:26:11.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

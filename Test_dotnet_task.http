@@ -1,0 +1,6 @@
+@Test_dotnet_task_HostAddress = http://localhost:5064
+
+GET {{Test_dotnet_task_HostAddress}}/GetUsers/
+Accept: application/json
+
+###
